@@ -31,7 +31,7 @@ Ascent Training is a provider of Department for Transport approved aviation secu
 Part time consultant June 2012 – June 2013
 Investment Executive Portfolio Management and Development March 2008 – June 2012
 
-*	Deal team for the platform acquisitions of Inclusion Care and Active Care with combined EV of £12m, two domiciliary 		care bolt-ons with combined EV of £4m and a £4.5m refinancing.  
+*	Deal team for the platform acquisitions of Inclusion Care and Active Care with combined EV of £12m, two domiciliary 	care bolt-ons with combined EV of £4m and a £4.5m refinancing.  
 *	Assisted in the execution of a debt for equity swap with Cascade Care bankers AIB.  
 *	Directly sourced Help at Home a domiciliary care business as a bolt on for City and County.
 *	Creation of investment papers including detailed market sections and returns models with integrated p&l, balance 
@@ -80,7 +80,8 @@ EDUCATION
 *	2002-03: Royal Holloway University of London reading Economics and Management
 	(see Uniserve employment)
 *	2000-02: Three A-Levels Economics (A), Maths (B), Physics (B) and one AS Level Business Studies (A)
-______________________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________________
 
 PROFESSIONAL DEVELOPMENT & ADDITIONAL SKILLS
 
@@ -89,11 +90,14 @@ PROFESSIONAL DEVELOPMENT & ADDITIONAL SKILLS
     financial statements, company valuation techniques, financial modelling and private equity transaction modelling.
 *	Professional 3 day sales course with Leadership Development Ltd (LDL London).
 *	Department for Transport approved trainer and EU accredited International Airline Validator (Inspector)
-______________________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________________
+
 
 LEISURE ACTIVITIES
 
 *	Squash, five-a-side football, coding, swimming, jogging, music and travelling
-______________________________________________________________________________________________________________________
+
+_______________________________________________________________________________________________________________________
 
 
