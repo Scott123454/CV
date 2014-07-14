@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 PROFESSIONAL EXPERIENCE 
 						
-Ascent Training Limited 
+**Ascent Training Limited**
 Director & Founder June 2012 - present
 
 Ascent Training is a provider of Department for Transport approved aviation security training and Civil Aviation Authority dangerous goods by air courses aimed at logistics operators, manufacturers and airlines.
@@ -27,7 +27,7 @@ Ascent Training is a provider of Department for Transport approved aviation secu
   	salary (I deliver most of the training) and dividend due to an extremely lean cost base.   
 •	Client base of large blue chip companies with repeatable annual compliance requirement.  
 
-Sovereign Capital LLP
+**Sovereign Capital LLP**
 Part time consultant June 2012 – June 2013
 Investment Executive Portfolio Management and Development March 2008 – June 2012
 
@@ -42,7 +42,7 @@ Investment Executive Portfolio Management and Development March 2008 – June 20
 •	Preparation of quantitative information for Sovereign Capital Limited Partnership III fund raising IM and ongoing 
   	investor updates.  
 
-Sovereign International Freight Limited 
+**Sovereign International Freight Limited** 
 Senior Manager August 2006 – March 2008 
 
 Sovereign International is a family owned multi award winning UK based air freight forwarder.  The decision was made 
@@ -54,7 +54,7 @@ affecting the company.
 •	Budgeting and cash flow analysis/forecasting.
 •	Assessment of marketing and sales strategy.
 
-Watermark Asia Limited (Hong Kong Based) 
+**Watermark Asia Limited (Hong Kong Based)**
 Logistics Manager July 2005 – August 2006
 
 Watermark manufactures and sources flight amenity products in China for supply to major airlines worldwide.  
@@ -63,7 +63,7 @@ Watermark manufactures and sources flight amenity products in China for supply t
 	to airline hubs worldwide.  
 •	Departmental budget preparation, logistics cost assessment and planning along with sourcing new products.
 
-Uniserve Group Limited (Shanghai based) 
+**Uniserve Group Limited (Shanghai based)**
 Far East Sales Manager June 2003 – June 2005 
 
 Uniserve is a highly profitable and successful UK based industry leader in freight forwarding. Having joined 
