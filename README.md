@@ -10,7 +10,7 @@ SUMMARY
 *	Portfolio management and board level experience with Select Living options and Cascade Care.  
 *	UK and Asia based management and sales experience at the Uniserve Group, Watermark Asia and Ascent Training.  
 *	Strategy development and execution as demonstrated with the successful launch and growth of Ascent Training Ltd
-*	Makers Academy 3 month intensive coding course focused on Ruby, Ruby on Rails, JS, HTML and CSS
+*	Makers Academy three month intensive coding course focused on Ruby, Ruby on Rails, JS, HTML and CSS
 
 ______________________________________________________________________________________________________________________
 
@@ -86,7 +86,7 @@ ________________________________________________________________________________
 
 PROFESSIONAL DEVELOPMENT & ADDITIONAL SKILLS
 
-*	Makers Academy 3 month intensive coding course focused on Ruby, Ruby on Rails, JS, HTML and CSS
+*	Makers Academy three month intensive coding course focused on Ruby, Ruby on Rails, JS, HTML and CSS
 *	Completed BVCA & BPP courses including introduction to private equity, legal agreements, analysis of 
     financial statements, company valuation techniques, financial modelling and private equity transaction modelling.
 *	Professional 3 day sales course with Leadership Development Ltd (LDL London).
