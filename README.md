@@ -1,10 +1,9 @@
 CV
 ==
 
-Github CV
-
 Scott  Dimmock - CF
 ______________________________________________________________________________________________________________________
+
 SUMMARY
 
 •	Deal team for the acquisition of Inclusion Care, Active Care, two bolt-ons and one recapitalisation.
@@ -74,6 +73,7 @@ Uniserve’s sales team for the summer of 2003 I was offered a newly created int
 •	Frequent sales trips to South Korea, Taiwan, Hong Kong, Shanghai and other Chinese cities.
 
 _______________________________________________________________________________________________________________________
+
 EDUCATION
 
 •	2008-11: ICAEW Corporate Finance Qualification (CFQ). Completed in March 2011.
@@ -81,6 +81,7 @@ EDUCATION
 	(see Uniserve employment)
 •	2000-02: Three A-Levels Economics (A), Maths (B), Physics (B) and one AS Level Business Studies (A)
 ______________________________________________________________________________________________________________________
+
 PROFESSIONAL DEVELOPMENT & ADDITIONAL SKILLS
 
 •	Makers Academy 3 month intensive coding course focused on Ruby, Ruby on Rails, JS, HTML and CSS
