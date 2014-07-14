@@ -29,6 +29,7 @@ Ascent Training is a provider of Department for Transport approved aviation secu
 
 **Sovereign Capital LLP**
 Part time consultant June 2012 – June 2013
+
 Investment Executive Portfolio Management and Development March 2008 – June 2012
 
 *	Deal team for the platform acquisitions of Inclusion Care and Active Care with combined EV of £12m, two domiciliary 	care bolt-ons with combined EV of £4m and a £4.5m refinancing.  
