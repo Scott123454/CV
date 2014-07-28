@@ -14,6 +14,13 @@ SUMMARY
 
 ______________________________________________________________________________________________________________________
 
+
+CODE EXAMPLES
+
+| [Angry Kitty] | [Yelp Clone] | [Takeaway] |
+| ------------- | ------------ | ---------- |
+| Angry Kitty is a fun web app designed to automate the process of chasing down money from your friends when you've footed the bill for a group event. 100% test driven and built in 10 days as a final project at Makers Academy. | Yelp Clone is a restaurant review site built using the Rails framework over 5 days at Makers Academy. | Takeaway is a test driven Object Oriented exercise designed to simulate a simple takeaway ordering system using Ruby and RSpec. |
+
 PROFESSIONAL EXPERIENCE 
 						
 **Ascent Training Limited**
