@@ -1,10 +1,10 @@
-CV
+CV #
 ==
 
-Scott  Dimmock - CF
+Scott  Dimmock - CF ##
 ______________________________________________________________________________________________________________________
 
-SUMMARY
+SUMMARY #
 
 *	Deal team for the acquisition of Inclusion Care, Active Care, two bolt-ons and one recapitalisation.
 *	Portfolio management and board level experience with Select Living options and Cascade Care.  
@@ -15,13 +15,13 @@ SUMMARY
 ______________________________________________________________________________________________________________________
 
 
-CODE EXAMPLES # H1
+CODE EXAMPLES ##
 
 | [Angry Kitty](https://github.com/Scott123454/AngryKitty)| [Instagram Replica](https://github.com/Scott123454/Instagram-Replica) | [Boris Bikes](https://github.com/Scott123454/Boris_Bikes) |
 | ------------  | ------------      | ----------  |
 | Angry Kitty is an application designed to automate the time consuming process of chasing your friends for money when organising an event.  The project was completed in 10 days using Rails and test driven with Cucumber and Rspec| Instagram Replica is a clone of the real thing with many of the same picture uploading, comments and tagging features | Boris Bikes is a test driven Object Oriented exercise designed to simulate a the London bike hire scheme using Ruby and RSpec. |
 
-PROFESSIONAL EXPERIENCE 
+PROFESSIONAL EXPERIENCE ## 
 						
 **Ascent Training Limited**
 Director & Founder June 2012 - present
