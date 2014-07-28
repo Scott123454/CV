@@ -18,10 +18,8 @@ ________________________________________________________________________________
 CODE EXAMPLES
 
 | Angry Kitty | Instagram Replica | Boris Bikes |
-| ------------- | ------------ | ---------- |
-| Angry Kitty is an application designed to automate the time consuming process of chasing your friends for money when organising an event.  The project was completed in 10 days using Rails and test driven with Cucumber and Rspec
-
-| Instagram Replica is a clone of the real thing with many of the same picture uploading, comments and tagging features | Boris Bikes is a test driven Object Oriented exercise designed to simulate a the London bike hire scheme using Ruby and RSpec. |
+| ------------| ------------      | ----------  |
+| Angry Kitty is an application designed to automate the time consuming process of chasing your friends for money when organising an event.  The project was completed in 10 days using Rails and test driven with Cucumber and Rspec| Instagram Replica is a clone of the real thing with many of the same picture uploading, comments and tagging features | Boris Bikes is a test driven Object Oriented exercise designed to simulate a the London bike hire scheme using Ruby and RSpec. |
 
 PROFESSIONAL EXPERIENCE 
 						
