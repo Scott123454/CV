@@ -1,10 +1,10 @@
-CV #
-==
+#CV 
+===
 
-Scott  Dimmock - CF ##
+##Scott  Dimmock - CF 
 ______________________________________________________________________________________________________________________
 
-SUMMARY #
+#SUMMARY 
 
 *	Deal team for the acquisition of Inclusion Care, Active Care, two bolt-ons and one recapitalisation.
 *	Portfolio management and board level experience with Select Living options and Cascade Care.  
@@ -15,13 +15,13 @@ SUMMARY #
 ______________________________________________________________________________________________________________________
 
 
-CODE EXAMPLES ##
+##CODE EXAMPLES 
 
 | [Angry Kitty](https://github.com/Scott123454/AngryKitty)| [Instagram Replica](https://github.com/Scott123454/Instagram-Replica) | [Boris Bikes](https://github.com/Scott123454/Boris_Bikes) |
 | ------------  | ------------      | ----------  |
 | Angry Kitty is an application designed to automate the time consuming process of chasing your friends for money when organising an event.  The project was completed in 10 days using Rails and test driven with Cucumber and Rspec| Instagram Replica is a clone of the real thing with many of the same picture uploading, comments and tagging features | Boris Bikes is a test driven Object Oriented exercise designed to simulate a the London bike hire scheme using Ruby and RSpec. |
 
-PROFESSIONAL EXPERIENCE ## 
+##PROFESSIONAL EXPERIENCE  
 						
 **Ascent Training Limited**
 Director & Founder June 2012 - present
@@ -80,7 +80,7 @@ Uniserve’s sales team for the summer of 2003 I was offered a newly created int
 
 _______________________________________________________________________________________________________________________
 
-EDUCATION
+##EDUCATION
 
 *	2008-11: ICAEW Corporate Finance Qualification (CFQ). Completed in March 2011.
 *	2002-03: Royal Holloway University of London reading Economics and Management
@@ -89,7 +89,7 @@ EDUCATION
 
 _______________________________________________________________________________________________________________________
 
-PROFESSIONAL DEVELOPMENT & ADDITIONAL SKILLS
+##PROFESSIONAL DEVELOPMENT & ADDITIONAL SKILLS
 
 *	Makers Academy three month intensive coding course focused on Ruby, Ruby on Rails, JS, HTML and CSS
 *	Completed BVCA & BPP courses including introduction to private equity, legal agreements, analysis of 
@@ -100,7 +100,7 @@ PROFESSIONAL DEVELOPMENT & ADDITIONAL SKILLS
 _______________________________________________________________________________________________________________________
 
 
-LEISURE ACTIVITIES
+##LEISURE ACTIVITIES
 
 *	Squash, five-a-side football, coding, swimming, jogging, music and travelling
 
