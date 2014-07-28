@@ -17,8 +17,8 @@ ________________________________________________________________________________
 
 CODE EXAMPLES
 
-| Angry Kitty | Instagram Replica | Boris Bikes |
-| ------------| ------------      | ----------  |
+| [Angry Kitty] https://github.com/Scott123454/AngryKitty | Instagram Replica | Boris Bikes |
+| ------------  | ------------      | ----------  |
 | Angry Kitty is an application designed to automate the time consuming process of chasing your friends for money when organising an event.  The project was completed in 10 days using Rails and test driven with Cucumber and Rspec| Instagram Replica is a clone of the real thing with many of the same picture uploading, comments and tagging features | Boris Bikes is a test driven Object Oriented exercise designed to simulate a the London bike hire scheme using Ruby and RSpec. |
 
 PROFESSIONAL EXPERIENCE 
@@ -30,8 +30,6 @@ Ascent Training is a provider of Department for Transport approved aviation secu
 
 *	Developed and executed strategy based on modernising air cargo compliance training.   
 *	Executed highly targeted marketing campaign.
-*	First twelve months sales from a standing start in Jan-13 of £60k, c.95% of which can distributed as 
-  	salary (I deliver most of the training) and dividend due to an extremely lean cost base.   
 *	Client base of large blue chip companies with repeatable annual compliance requirement.  
 
 **Sovereign Capital LLP**
