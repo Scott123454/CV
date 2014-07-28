@@ -1,7 +1,7 @@
 #CV Scott  Dimmock - CF 
 ______________________________________________________________________________________________________________________
 
-#SUMMARY 
+##SUMMARY 
 
 *	Deal team for the acquisition of Inclusion Care, Active Care, two bolt-ons and one recapitalisation.
 *	Portfolio management and board level experience with Select Living options and Cascade Care.  
