@@ -48,10 +48,6 @@ Investment Executive Portfolio Management and Development March 2008 – June 20
 **Sovereign International Freight Limited** 
 Senior Manager August 2006 – March 2008 
 
-Sovereign International is a family owned multi award winning UK based air freight forwarder.  The decision was made 
-to return from Hong Kong in order to head-up a team to address a recent downturn in freight volumes which was adversely 
-affecting the company. 
-
 *	Purchasing efficiency and client evaluation.
 *	Assessment of staffing levels, performance and targets.
 *	Budgeting and cash flow analysis/forecasting.
@@ -59,8 +55,6 @@ affecting the company.
 
 **Watermark Asia Limited (Hong Kong Based)**
 Logistics Manager July 2005 – August 2006
-
-Watermark manufactures and sources flight amenity products in China for supply to major airlines worldwide.  
 
 *	Management of local staff to co-ordinate all processes from manufacture to critical on-time delivery of product 
 	to airline hubs worldwide.  
