@@ -4,7 +4,7 @@ ________________________________________________________________________________
 ##SUMMARY 
 
 *	Deal team for the acquisition of Inclusion Care, Active Care, two bolt-ons and one recapitalisation.
-*	Portfolio management and board level experience with Select Living options and Cascade Care.  
+*	Portfolio management and board level experience with Select Living Options and Cascade Care.  
 *	UK and Asia based management and sales experience at the Uniserve Group, Watermark Asia and Ascent Training.  
 *	Strategy development and execution as demonstrated with the successful launch and growth of Ascent Training Ltd
 *	Makers Academy three month intensive coding course focused on Ruby, Ruby on Rails, JS, HTML, CSS utilising test and 	behaviour driven development tools including RSpec and Cucumber
